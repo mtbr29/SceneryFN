@@ -46,23 +46,40 @@ sorry the command to make meshes only visual no longer works, I haven't tested i
 ## ids
 //Island|Prefab|Gallery
 <br> ```CheatScript SPAWNPLAYSET /Game/Playsets/PID_016_Athena_SpikyStadium.PID_016_Athena_SpikyStadium```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Arena_01_Island.PID_Playset_105x105_Arena_01_Island```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Arena_02_Island.PID_Playset_105x105_Arena_02_Island```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Block_Tilted01.PID_Playset_105x105_Composed_Block_Tilted01```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Block_Tilted02.PID_Playset_105x105_Composed_Block_Tilted02```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Block_Tilted03.PID_Playset_105x105_Composed_Block_Tilted03```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Desert_02.PID_Playset_105x105_Composed_Desert_02```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Desert.PID_Playset_105x105_Composed_Desert```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Escape.PID_Playset_105x105_Composed_Escape```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_FlatGrass.PID_Playset_105x105_Composed_FlatGrass```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_FlatGrassV2.PID_Playset_105x105_Composed_FlatGrassV2```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_FlatGrid.PID_Playset_105x105_Composed_FlatGrid```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_IceLake.PID_Playset_105x105_Composed_IceLake```
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Kevin.PID_Playset_105x105_Composed_Kevin```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Lagoon.PID_Playset_105x105_Composed_Lagoon```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Loki_02.PID_Playset_105x105_Composed_Loki_02```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Loki_03.PID_Playset_105x105_Composed_Loki_03```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Loki_04.PID_Playset_105x105_Composed_Loki_04```
+
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Loki_06.PID_Playset_105x105_Composed_Loki_06```
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Loki.PID_Playset_105x105_Composed_Loki```
 <br> ```CheatScript SPAWNPLAYSET /CR_Legacy/Playsets/PID_Playset_105x105_Composed_Pandora.PID_Playset_105x105_Composed_Pandora```
